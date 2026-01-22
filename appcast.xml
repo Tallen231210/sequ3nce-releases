@@ -1,0 +1,624 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Sequ3nce for macOS</title>
+        <link>https://sequ3nce.ai/download</link>
+        <description>Native macOS app for sales call recording</description>
+        <language>en</language>
+
+        <!-- Latest Release -->
+        <item>
+            <title>Version 1.7.6</title>
+            <pubDate>Wed, 22 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>52</sparkle:version>
+            <sparkle:shortVersionString>1.7.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.7.6</h2>
+                <ul>
+                    <li>Objections Overcome - track what objections you overcame on closed deals</li>
+                    <li>New dropdown in post-call form for closed deals</li>
+                    <li>Feeds into analytics for real objection handling insights</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.6/Sequ3nce.zip"
+                length="1792533"
+                type="application/octet-stream"
+                sparkle:edSignature="mSW7LNx9xfm4qMkVIY2EjPmspbpmjVTQ3tReJgGjCYUxXoVTlenA3PuThe0h2ybF2pEyoUfc0nPP2ZUlApguCA=="
+            />
+        </item>
+
+        <!-- v1.7.5 -->
+        <item>
+            <title>Version 1.7.5</title>
+            <pubDate>Wed, 22 Jan 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>50</sparkle:version>
+            <sparkle:shortVersionString>1.7.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.7.5</h2>
+                <ul>
+                    <li>Bug fixes for stability and reliability</li>
+                    <li>Fixed timer memory leak in Request Reinforcements cooldown</li>
+                    <li>Fixed race condition when saving prospect name from calendar</li>
+                    <li>Added automatic error telemetry - issues are now reported to help us debug faster</li>
+                    <li>Improved diagnostic logging for recording flow</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.5/Sequ3nce.zip"
+                length="1789179"
+                type="application/octet-stream"
+                sparkle:edSignature="4+3y8TvH88m9oQBCJ6NY5zrUWt9dA3uqMupgd9xSge57PnfrcoW6ofp4xE9WxDswlY27DWpmxCWij/TWDFMxDA=="
+            />
+        </item>
+
+        <!-- v1.7.4 -->
+        <item>
+            <title>Version 1.7.4</title>
+            <pubDate>Tue, 21 Jan 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.7.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.7.4</h2>
+                <ul>
+                    <li>Request Reinforcements - closers can request urgent help from managers during calls</li>
+                    <li>Manager gets notified via Slack + web dashboard</li>
+                    <li>Fixed calendar timezone bug - events now display in correct timezone (DST-aware)</li>
+                    <li>Fixed duplicate events appearing in schedule</li>
+                    <li>Fixed "Starting Now" badge showing on past events</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.4/Sequ3nce.zip"
+                length="1779116"
+                type="application/octet-stream"
+                sparkle:edSignature="Oic4xZaayzqvY/mSINlE5r/hxDIT4SnFzQr193AMdC/M6nJh+GqvOMqBR5EmY1LpSEcjtaxUoIyLZgOuLXOGDw=="
+            />
+        </item>
+
+        <!-- v1.7.3 (never released - notarization stuck) -->
+        <item>
+            <title>Version 1.7.3</title>
+            <pubDate>Mon, 20 Jan 2026 22:00:00 +0000</pubDate>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.7.3</h2>
+                <ul>
+                    <li>Fixed calendar timezone bug - events now display in correct timezone (DST-aware)</li>
+                    <li>Fixed duplicate events appearing in schedule</li>
+                    <li>Fixed "Starting Now" badge showing on past events</li>
+                    <li>Added "ENDED" badge for events that have finished</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.3/Sequ3nce.zip"
+                length="PLACEHOLDER_LENGTH"
+                type="application/octet-stream"
+                sparkle:edSignature="SIGNATURE_PLACEHOLDER"
+            />
+        </item>
+
+        <!-- v1.7.2 -->
+        <item>
+            <title>Version 1.7.2</title>
+            <pubDate>Mon, 20 Jan 2026 20:00:00 +0000</pubDate>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.7.2</h2>
+                <ul>
+                    <li>Side-by-Side Layout - Ammo Panel auto-opens on the right when joining meetings</li>
+                    <li>Fixed prospect name not being set when joining from menu bar</li>
+                    <li>Streamlined Join & Record flow from both Schedule and Menu Bar</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.2/Sequ3nce.zip"
+                length="1762800"
+                type="application/octet-stream"
+                sparkle:edSignature="cmW5aCZTbDZJTynRfGScbG1MPDWP95tsd6SgfrrYG77FiTp45DjRsU5D2Pa+mPCysLnwtVMApTdJ/OYIzredCA=="
+            />
+        </item>
+
+        <!-- v1.7.1 -->
+        <item>
+            <title>Version 1.7.1</title>
+            <pubDate>Mon, 20 Jan 2026 18:00:00 +0000</pubDate>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.7.1</h2>
+                <ul>
+                    <li>Join Meeting from Menu Bar - submenu shows upcoming meetings with meeting links</li>
+                    <li>Supports joining meetings that started up to 30 minutes ago (for running late)</li>
+                    <li>Improved icon bar design with grouped container and hover states</li>
+                    <li>Fixed calendar event fetching in menu bar</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.1/Sequ3nce.zip"
+                length="1760126"
+                type="application/octet-stream"
+                sparkle:edSignature="Jf1IgS5zqlwpjMe6OlIhZ91kVcL3qaPNefxYUuj8TDfFmsUjYuAcmUZdr1P1+QD3jQQtFKrbBspFBtIIFeZoDA=="
+            />
+        </item>
+
+        <!-- v1.7.0 -->
+        <item>
+            <title>Version 1.7.0</title>
+            <pubDate>Mon, 20 Jan 2026 14:00:00 +0000</pubDate>
+            <sparkle:version>36</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.7.0</h2>
+                <ul>
+                    <li>Menu Bar Integration - Sequ3nce icon now lives in your menu bar</li>
+                    <li>Quick access to Start/Stop Recording from menu bar</li>
+                    <li>Red indicator dot shows when recording is active</li>
+                    <li>Open Ammo Panel and Schedule directly from menu bar</li>
+                    <li>Recording duration visible in menu bar dropdown</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.0/Sequ3nce.zip"
+                length="1750119"
+                type="application/octet-stream"
+                sparkle:edSignature="OWWMtpxwHEFGxBIT/P48klmvSZM0V/WHywLbgmgGA3dJVvLJYzkYRZ4emQWVkIEeADM/ixxHEU28rKKXnGMFDA=="
+            />
+        </item>
+
+        <!-- v1.6.0 -->
+        <item>
+            <title>Version 1.6.0</title>
+            <pubDate>Mon, 20 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.6.0</h2>
+                <ul>
+                    <li>Smart Recording from Calendar - click "Join &amp; Record" to open meeting AND start recording in one click</li>
+                    <li>Calendar auto-syncs every 5 minutes (no more manual sync needed)</li>
+                    <li>Premium Schedule UI - card-based design with urgency badges</li>
+                    <li>Enhanced calendar button shows your next meeting in main window</li>
+                    <li>Supports Zoom, Google Meet, Microsoft Teams, and Webex links</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.6.0/Sequ3nce.zip"
+                length="1739512"
+                type="application/octet-stream"
+                sparkle:edSignature="8k1I3jcmSYWcmXX2sxjXvtYUwgWU2w1tNcbsw53pbMRbZrnGNTImWxtDnsXxZY6EL1FaQhLbp4Nh/TB3GL/fBw=="
+            />
+        </item>
+
+        <!-- v1.5.0 -->
+        <item>
+            <title>Version 1.5.0</title>
+            <pubDate>Sun, 19 Jan 2026 10:00:00 +0000</pubDate>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.5.0</h2>
+                <ul>
+                    <li>Auto-reconnect - calls automatically resume if your internet drops</li>
+                    <li>Reconnecting UI shows connection status during recovery</li>
+                    <li>Transcript preserved across reconnections</li>
+                    <li>Heartbeat monitoring detects stale connections</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.5.0/Sequ3nce.zip"
+                length="1719050"
+                type="application/octet-stream"
+                sparkle:edSignature="aHHSqX3DSVYN05jtjtm6rRz+Kac4gFE4Mme5Ki/tMxCGspW37FDTvpL1u1bLxrrU60c+SWL9DyvCJPfdnGDiAA=="
+            />
+        </item>
+
+        <!-- v1.4.9 -->
+        <item>
+            <title>Version 1.4.9</title>
+            <pubDate>Sat, 18 Jan 2026 14:00:00 +0000</pubDate>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.4.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.4.9</h2>
+                <ul>
+                    <li>Fixed prospect name not showing in Live Calls dashboard</li>
+                    <li>Fixed chat "On call" status indicator</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.9/Sequ3nce.zip"
+                length="1707126"
+                type="application/octet-stream"
+                sparkle:edSignature="a3K68A2HodSLnwHHa8so4X8Kc2cjuHlmRvUIN4N1Kj/+Ao/V12u/Gfz42DxnfGe3Y+w1xnuTc5tLTXAZbar9BA=="
+            />
+        </item>
+
+        <!-- v1.4.8 -->
+        <item>
+            <title>Version 1.4.8</title>
+            <pubDate>Sat, 18 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.4.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.4.8</h2>
+                <ul>
+                    <li>Live Chat - Receive messages from your manager during calls</li>
+                    <li>Reply to messages directly from the desktop app</li>
+                    <li>Dock badge shows unread message count</li>
+                    <li>Sound notification when new messages arrive</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.8/Sequ3nce.zip"
+                length="1705801"
+                type="application/octet-stream"
+                sparkle:edSignature="uDMBSKhCBH88fktwVMvATC42h5QO8AYNpIMDYSJI43m7GuAqQe7Xp3/IDpItNJKlIE7ZUG9FHcpiFVGTywrrCA=="
+            />
+        </item>
+
+        <!-- v1.4.7 -->
+        <item>
+            <title>Version 1.4.7</title>
+            <pubDate>Tue, 14 Jan 2026 22:00:00 +0000</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.4.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.4.7</h2>
+                <ul>
+                    <li>Fixed Live Summary not loading during calls</li>
+                    <li>Ammo V2 analysis (engagement, beliefs, objections) now displays correctly</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.7/Sequ3nce.zip"
+                length="1659130"
+                type="application/octet-stream"
+                sparkle:edSignature="sjBk5cVhENbYM4/4E03zUZILN5trbFDJwZPAWfXVFyvUK2ilwbLCAeaNZaGC3sqzem03le46N2ZUWGhBhbKHBg=="
+            />
+        </item>
+
+        <!-- v1.4.6 -->
+        <item>
+            <title>Version 1.4.6</title>
+            <pubDate>Tue, 14 Jan 2026 21:00:00 +0000</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.4.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.4.6</h2>
+                <ul>
+                    <li>Improved Schedule view layout - sync controls now at top</li>
+                    <li>Updated "Next up" banner styling to match app theme</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.6/Sequ3nce.zip"
+                length="1658439"
+                type="application/octet-stream"
+                sparkle:edSignature="3sl+q6KlSZLNVcXz39zY3GZLTSSKODWV80Id2fk0lrqMcvmSmVxOr7soJ9o63DBorfLeUUqbA98TSfH8XrTjAw=="
+            />
+        </item>
+
+        <!-- v1.4.5 -->
+        <item>
+            <title>Version 1.4.5</title>
+            <pubDate>Tue, 14 Jan 2026 20:00:00 +0000</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.4.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.4.5</h2>
+                <ul>
+                    <li>Fixed calendar sync for accounts with duplicate emails across teams</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.5/Sequ3nce.zip"
+                length="1658227"
+                type="application/octet-stream"
+                sparkle:edSignature="DZL5wE8dKzVut9Es5FsUO9meZiidvzj+dRc7Y6FTLEIFnjCCZcHWJ6Zx1l4bupqqXZSro5obvNJPAsT3NucsDA=="
+            />
+        </item>
+
+        <!-- v1.4.4 -->
+        <item>
+            <title>Version 1.4.4</title>
+            <pubDate>Tue, 14 Jan 2026 18:00:00 +0000</pubDate>
+            <sparkle:version>20</sparkle:version>
+            <sparkle:shortVersionString>1.4.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.4.4</h2>
+                <ul>
+                    <li>Schedule view - Connect your calendar via ICS feed</li>
+                    <li>See upcoming events from Google Calendar, Calendly, Outlook, Cal.com</li>
+                    <li>"Next up" countdown for your next scheduled call</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.4/Sequ3nce.zip"
+                length="1657916"
+                type="application/octet-stream"
+                sparkle:edSignature="qnNNpFdBcLseuJQHLGFYMCpCwRzl960Qv2GqVw8DCvpOnUmx8wPkw18FIUxI46Yb43L4BxQh8NtuHEDFDFlwDA=="
+            />
+        </item>
+
+        <!-- v1.4.3 -->
+        <item>
+            <title>Version 1.4.3</title>
+            <pubDate>Tue, 14 Jan 2026 14:00:00 +0000</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.4.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.4.3</h2>
+                <ul>
+                    <li>Auto-recovery: Audio engine automatically restarts if it stops unexpectedly</li>
+                    <li>Improved reliability for long calls</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.3/Sequ3nce.zip"
+                length="1597934"
+                type="application/octet-stream"
+                sparkle:edSignature="LB4y2xXIIZefYFYXm+xIZ9HjLnzpdhRAKSPExC7XiI+3lq1pzYJ80V1ktvbtcPdYt3B79J8WJrPGQBY903noCQ=="
+            />
+        </item>
+
+        <!-- v1.4.2 -->
+        <item>
+            <title>Version 1.4.2</title>
+            <pubDate>Tue, 14 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.4.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.4.2</h2>
+                <ul>
+                    <li>Added audio capture diagnostics for debugging transcript issues</li>
+                    <li>Health monitoring detects when audio stops unexpectedly</li>
+                    <li>Errors now reported to backend for remote debugging</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.2/Sequ3nce.zip"
+                length="1597091"
+                type="application/octet-stream"
+                sparkle:edSignature="WTBs2RtuhLZ+V2WMraBlTJPTfUdc9Bfq7JB+TzJXg+jkYHLqvQtBRUXlH/+eY6J1suVp4Kj4k+a+aMaEjoKPDg=="
+            />
+        </item>
+
+        <!-- v1.4.1 -->
+        <item>
+            <title>Version 1.4.1</title>
+            <pubDate>Sat, 11 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.4.1</h2>
+                <ul>
+                    <li>Fixed intermittent audio capture failures causing blank transcripts</li>
+                    <li>Improved cleanup between consecutive recordings</li>
+                    <li>Better error handling for audio engine initialization</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.1/Sequ3nce.zip"
+                length="1589311"
+                type="application/octet-stream"
+                sparkle:edSignature="SQR1wLlXA1iKuTe+QhAWNm64k+2ZT1Ygh/e8gG3ju0FxSpxsf4+mublULg0o3YuvsGzJfELD5yOdeif4IHAGCQ=="
+            />
+        </item>
+
+        <!-- v1.4.0 -->
+        <item>
+            <title>Version 1.4.0</title>
+            <pubDate>Thu, 09 Jan 2026 13:00:00 +0000</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.4.0</h2>
+                <ul>
+                    <li>Role Play Room - persistent video chat room for team practice</li>
+                    <li>Join your team's video room with one click</li>
+                    <li>See participant count badge on the button</li>
+                    <li>Session timer shows how long you've been in the room</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.0/Sequ3nce.zip"
+                length="1587494"
+                type="application/octet-stream"
+                sparkle:edSignature="TPhpz+hgpM4ijDl8E/NGM4dTDsz28IsoVsadUxuOcnXeECCsDJvyCKdBKtxwTFrkA+pABZpsC6cD9sm2iXz5DQ=="
+            />
+        </item>
+
+        <!-- v1.3.1 -->
+        <item>
+            <title>Version 1.3.1</title>
+            <pubDate>Wed, 08 Jan 2026 03:00:00 +0000</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.3.1</h2>
+                <ul>
+                    <li>Fixed auto-update prompt to show on app launch</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.3.1/Sequ3nce.zip"
+                length="1548148"
+                type="application/octet-stream"
+                sparkle:edSignature="ZW7XLQzRhmOUTK+90K2DX3ygTjJAkI3XOzuM6JtqQE5CZFXIwmygtJr+yfpmgYsOpHNnOmujM6wE3JCaJRsnDg=="
+            />
+        </item>
+
+        <!-- v1.3.0 -->
+        <item>
+            <title>Version 1.3.0</title>
+            <pubDate>Wed, 08 Jan 2026 02:00:00 +0000</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.3.0</h2>
+                <ul>
+                    <li>Live call summary in Ammo panel</li>
+                    <li>AI generates 2-3 sentence summary during calls</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.3.0/Sequ3nce.zip"
+                length="1548061"
+                type="application/octet-stream"
+                sparkle:edSignature="DoZzMwfBoI1Or51LZhdduuWAeEx9cBrYNCvDkmqcd1ZKhhRaCf67yzjn6ffwVSVrhBHygA0TKRn79AuC3jrRDw=="
+            />
+        </item>
+
+        <!-- v1.2.1 -->
+        <item>
+            <title>Version 1.2.1</title>
+            <pubDate>Wed, 08 Jan 2026 01:00:00 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.2.1</h2>
+                <ul>
+                    <li>Stay logged in after quitting the app</li>
+                    <li>Automatic update check on launch</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.2.1/Sequ3nce.zip"
+                length="1544782"
+                type="application/octet-stream"
+                sparkle:edSignature="E1Th0LvIb2VxghTK4lyuBchpONnC2LdWETy1isUdkiLgxSlSejbCBgiZbcb4WdV3YDa0+E/f5BW0Au5L03ssAw=="
+            />
+        </item>
+
+        <!-- v1.2.0 -->
+        <item>
+            <title>Version 1.2.0</title>
+            <pubDate>Wed, 08 Jan 2026 00:00:00 +0000</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.2.0</h2>
+                <ul>
+                    <li>Added "What was the deal worth?" field for lost/follow-up calls</li>
+                    <li>Improved analytics tracking for Left on Table calculations</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.2.0/Sequ3nce.zip"
+                length="1543298"
+                type="application/octet-stream"
+                sparkle:edSignature="xitVi5pP3b+v6098bG1AjRLolloTOoVQY9nwAaxgMmA7sNck5vffMTk5YPJFQGEPcZsocWu+XntAL7pjX3lcCQ=="
+            />
+        </item>
+
+        <!-- v1.1.0 -->
+        <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Tue, 07 Jan 2026 21:00:00 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.1.0</h2>
+                <ul>
+                    <li>Training feature - view and listen to training playlists assigned by your manager</li>
+                    <li>Audio player with transcript syncing</li>
+                    <li>Navigate between clips in a playlist</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.1.0/Sequ3nce.zip"
+                length="1540465"
+                type="application/octet-stream"
+                sparkle:edSignature="HgrFVx+wHbeZKklrEE4nHKv74cMC+jHG1pUpHfT+s/ChfPmDlVE2+/3JDRegxXQUQu/Qy1fIHO+tLgkblB7wBA=="
+            />
+        </item>
+
+        <!-- Previous Release -->
+        <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Tue, 07 Jan 2026 18:00:00 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.0.0</h2>
+                <ul>
+                    <li>Initial release of native macOS app</li>
+                    <li>Core Audio Taps for system audio capture (no screen recording required)</li>
+                    <li>Real-time ammo tracking panel</li>
+                    <li>Live transcript view</li>
+                    <li>Buying beliefs analysis</li>
+                    <li>Objection prediction</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.0.0/Sequ3nce.zip"
+                length="1485384"
+                type="application/octet-stream"
+                sparkle:edSignature="MdlbzCGs5DuVkQpyU9/UTqIvITmNcmFwed4XGGBAMvsK4h5hYnJppWM5H82NlVuvHNu81NcvS9CojaDcsf06Cw=="
+            />
+        </item>
+
+        <!--
+        To add a new release:
+        1. Run: ./scripts/release.sh X.Y.Z
+        2. The script will output the edSignature
+        3. Copy the <item> block above and update:
+           - title, pubDate
+           - sparkle:version (build number)
+           - sparkle:shortVersionString (X.Y.Z)
+           - description
+           - url (macos-vX.Y.Z)
+           - length (file size in bytes)
+           - sparkle:edSignature
+
+        Example new release:
+        <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Mon, 13 Jan 2026 12:00:00 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.1.0</h2>
+                <ul>
+                    <li>Bug fixes and improvements</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.1.0/Sequ3nce.zip"
+                length="12345678"
+                type="application/octet-stream"
+                sparkle:edSignature="YOUR_SIGNATURE_HERE"
+            />
+        </item>
+        -->
+    </channel>
+</rss>
