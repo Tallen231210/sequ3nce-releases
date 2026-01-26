@@ -8,6 +8,29 @@
 
         <!-- Latest Release -->
         <item>
+            <title>Version 1.7.8</title>
+            <pubDate>Sun, 26 Jan 2026 20:00:00 +0000</pubDate>
+            <sparkle:version>56</sparkle:version>
+            <sparkle:shortVersionString>1.7.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.4</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>What's New in Sequ3nce 1.7.8</h2>
+                <ul>
+                    <li>Silent audio detection - automatically detects when audio becomes silent during calls</li>
+                    <li>Auto-recovery - full audio reinitialization when silent audio is detected</li>
+                    <li>Improved transcript reliability after network reconnections</li>
+                </ul>
+            ]]></description>
+            <enclosure
+                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.7.8/Sequ3nce.zip"
+                length="1796095"
+                type="application/octet-stream"
+                sparkle:edSignature="krXhun8Skl3jH6vu1rB/G0pO1z5YYIFrCKT9Z9uhQ7TRaiHV0SOVfEOPvN5Ft9WReDsrpPXHUBfOHywOy9P0Cw=="
+            />
+        </item>
+
+        <!-- v1.7.7 -->
+        <item>
             <title>Version 1.7.7</title>
             <pubDate>Wed, 22 Jan 2026 14:00:00 +0000</pubDate>
             <sparkle:version>53</sparkle:version>
@@ -43,7 +66,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.7.6/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.6/Sequ3nce.zip"
                 length="1792533"
                 type="application/octet-stream"
                 sparkle:edSignature="mSW7LNx9xfm4qMkVIY2EjPmspbpmjVTQ3tReJgGjCYUxXoVTlenA3PuThe0h2ybF2pEyoUfc0nPP2ZUlApguCA=="
@@ -68,7 +91,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.7.5/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.5/Sequ3nce.zip"
                 length="1789179"
                 type="application/octet-stream"
                 sparkle:edSignature="4+3y8TvH88m9oQBCJ6NY5zrUWt9dA3uqMupgd9xSge57PnfrcoW6ofp4xE9WxDswlY27DWpmxCWij/TWDFMxDA=="
@@ -93,7 +116,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.7.4/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.4/Sequ3nce.zip"
                 length="1779116"
                 type="application/octet-stream"
                 sparkle:edSignature="Oic4xZaayzqvY/mSINlE5r/hxDIT4SnFzQr193AMdC/M6nJh+GqvOMqBR5EmY1LpSEcjtaxUoIyLZgOuLXOGDw=="
@@ -117,7 +140,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.7.3/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.3/Sequ3nce.zip"
                 length="PLACEHOLDER_LENGTH"
                 type="application/octet-stream"
                 sparkle:edSignature="SIGNATURE_PLACEHOLDER"
@@ -140,7 +163,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.7.2/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.2/Sequ3nce.zip"
                 length="1762800"
                 type="application/octet-stream"
                 sparkle:edSignature="cmW5aCZTbDZJTynRfGScbG1MPDWP95tsd6SgfrrYG77FiTp45DjRsU5D2Pa+mPCysLnwtVMApTdJ/OYIzredCA=="
@@ -164,7 +187,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.7.1/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.1/Sequ3nce.zip"
                 length="1760126"
                 type="application/octet-stream"
                 sparkle:edSignature="Jf1IgS5zqlwpjMe6OlIhZ91kVcL3qaPNefxYUuj8TDfFmsUjYuAcmUZdr1P1+QD3jQQtFKrbBspFBtIIFeZoDA=="
@@ -189,7 +212,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.7.0/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.7.0/Sequ3nce.zip"
                 length="1750119"
                 type="application/octet-stream"
                 sparkle:edSignature="OWWMtpxwHEFGxBIT/P48klmvSZM0V/WHywLbgmgGA3dJVvLJYzkYRZ4emQWVkIEeADM/ixxHEU28rKKXnGMFDA=="
@@ -214,7 +237,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.6.0/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.6.0/Sequ3nce.zip"
                 length="1739512"
                 type="application/octet-stream"
                 sparkle:edSignature="8k1I3jcmSYWcmXX2sxjXvtYUwgWU2w1tNcbsw53pbMRbZrnGNTImWxtDnsXxZY6EL1FaQhLbp4Nh/TB3GL/fBw=="
@@ -238,7 +261,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.5.0/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.5.0/Sequ3nce.zip"
                 length="1719050"
                 type="application/octet-stream"
                 sparkle:edSignature="aHHSqX3DSVYN05jtjtm6rRz+Kac4gFE4Mme5Ki/tMxCGspW37FDTvpL1u1bLxrrU60c+SWL9DyvCJPfdnGDiAA=="
@@ -260,7 +283,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.4.9/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.9/Sequ3nce.zip"
                 length="1707126"
                 type="application/octet-stream"
                 sparkle:edSignature="a3K68A2HodSLnwHHa8so4X8Kc2cjuHlmRvUIN4N1Kj/+Ao/V12u/Gfz42DxnfGe3Y+w1xnuTc5tLTXAZbar9BA=="
@@ -284,7 +307,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.4.8/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.8/Sequ3nce.zip"
                 length="1705801"
                 type="application/octet-stream"
                 sparkle:edSignature="uDMBSKhCBH88fktwVMvATC42h5QO8AYNpIMDYSJI43m7GuAqQe7Xp3/IDpItNJKlIE7ZUG9FHcpiFVGTywrrCA=="
@@ -306,7 +329,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.4.7/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.7/Sequ3nce.zip"
                 length="1659130"
                 type="application/octet-stream"
                 sparkle:edSignature="sjBk5cVhENbYM4/4E03zUZILN5trbFDJwZPAWfXVFyvUK2ilwbLCAeaNZaGC3sqzem03le46N2ZUWGhBhbKHBg=="
@@ -328,7 +351,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.4.6/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.6/Sequ3nce.zip"
                 length="1658439"
                 type="application/octet-stream"
                 sparkle:edSignature="3sl+q6KlSZLNVcXz39zY3GZLTSSKODWV80Id2fk0lrqMcvmSmVxOr7soJ9o63DBorfLeUUqbA98TSfH8XrTjAw=="
@@ -349,7 +372,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.4.5/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.5/Sequ3nce.zip"
                 length="1658227"
                 type="application/octet-stream"
                 sparkle:edSignature="DZL5wE8dKzVut9Es5FsUO9meZiidvzj+dRc7Y6FTLEIFnjCCZcHWJ6Zx1l4bupqqXZSro5obvNJPAsT3NucsDA=="
@@ -372,7 +395,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.4.4/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.4/Sequ3nce.zip"
                 length="1657916"
                 type="application/octet-stream"
                 sparkle:edSignature="qnNNpFdBcLseuJQHLGFYMCpCwRzl960Qv2GqVw8DCvpOnUmx8wPkw18FIUxI46Yb43L4BxQh8NtuHEDFDFlwDA=="
@@ -394,7 +417,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.4.3/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.3/Sequ3nce.zip"
                 length="1597934"
                 type="application/octet-stream"
                 sparkle:edSignature="LB4y2xXIIZefYFYXm+xIZ9HjLnzpdhRAKSPExC7XiI+3lq1pzYJ80V1ktvbtcPdYt3B79J8WJrPGQBY903noCQ=="
@@ -417,7 +440,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.4.2/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.2/Sequ3nce.zip"
                 length="1597091"
                 type="application/octet-stream"
                 sparkle:edSignature="WTBs2RtuhLZ+V2WMraBlTJPTfUdc9Bfq7JB+TzJXg+jkYHLqvQtBRUXlH/+eY6J1suVp4Kj4k+a+aMaEjoKPDg=="
@@ -440,7 +463,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.4.1/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.1/Sequ3nce.zip"
                 length="1589311"
                 type="application/octet-stream"
                 sparkle:edSignature="SQR1wLlXA1iKuTe+QhAWNm64k+2ZT1Ygh/e8gG3ju0FxSpxsf4+mublULg0o3YuvsGzJfELD5yOdeif4IHAGCQ=="
@@ -464,7 +487,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.4.0/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.4.0/Sequ3nce.zip"
                 length="1587494"
                 type="application/octet-stream"
                 sparkle:edSignature="TPhpz+hgpM4ijDl8E/NGM4dTDsz28IsoVsadUxuOcnXeECCsDJvyCKdBKtxwTFrkA+pABZpsC6cD9sm2iXz5DQ=="
@@ -485,7 +508,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.3.1/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.3.1/Sequ3nce.zip"
                 length="1548148"
                 type="application/octet-stream"
                 sparkle:edSignature="ZW7XLQzRhmOUTK+90K2DX3ygTjJAkI3XOzuM6JtqQE5CZFXIwmygtJr+yfpmgYsOpHNnOmujM6wE3JCaJRsnDg=="
@@ -507,7 +530,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.3.0/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.3.0/Sequ3nce.zip"
                 length="1548061"
                 type="application/octet-stream"
                 sparkle:edSignature="DoZzMwfBoI1Or51LZhdduuWAeEx9cBrYNCvDkmqcd1ZKhhRaCf67yzjn6ffwVSVrhBHygA0TKRn79AuC3jrRDw=="
@@ -529,7 +552,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.2.1/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.2.1/Sequ3nce.zip"
                 length="1544782"
                 type="application/octet-stream"
                 sparkle:edSignature="E1Th0LvIb2VxghTK4lyuBchpONnC2LdWETy1isUdkiLgxSlSejbCBgiZbcb4WdV3YDa0+E/f5BW0Au5L03ssAw=="
@@ -551,7 +574,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.2.0/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.2.0/Sequ3nce.zip"
                 length="1543298"
                 type="application/octet-stream"
                 sparkle:edSignature="xitVi5pP3b+v6098bG1AjRLolloTOoVQY9nwAaxgMmA7sNck5vffMTk5YPJFQGEPcZsocWu+XntAL7pjX3lcCQ=="
@@ -574,7 +597,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.1.0/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.1.0/Sequ3nce.zip"
                 length="1540465"
                 type="application/octet-stream"
                 sparkle:edSignature="HgrFVx+wHbeZKklrEE4nHKv74cMC+jHG1pUpHfT+s/ChfPmDlVE2+/3JDRegxXQUQu/Qy1fIHO+tLgkblB7wBA=="
@@ -600,7 +623,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.0.0/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.0.0/Sequ3nce.zip"
                 length="1485384"
                 type="application/octet-stream"
                 sparkle:edSignature="MdlbzCGs5DuVkQpyU9/UTqIvITmNcmFwed4XGGBAMvsK4h5hYnJppWM5H82NlVuvHNu81NcvS9CojaDcsf06Cw=="
@@ -634,7 +657,7 @@
                 </ul>
             ]]></description>
             <enclosure
-                url="https://github.com/Tallen231210/sequ3nce-releases/releases/download/macos-v1.1.0/Sequ3nce.zip"
+                url="https://github.com/Tallen231210/sequ3nce-ai/releases/download/macos-v1.1.0/Sequ3nce.zip"
                 length="12345678"
                 type="application/octet-stream"
                 sparkle:edSignature="YOUR_SIGNATURE_HERE"
